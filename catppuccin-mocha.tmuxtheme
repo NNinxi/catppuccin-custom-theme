@@ -2,16 +2,16 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Custom theme
-thm_bg=#333c43
-thm_fg=#d3c6aa
+thm_bg=#1f1f28
+thm_fg=#dcd7ba
 thm_cyan=color6
 thm_black=color0
-thm_gray=#4f585e
+thm_gray=#363646
 thm_magenta=color5
 thm_pink=color13
 thm_red=color1
 thm_green=color2
 thm_yellow=color3
 thm_blue=color4
-thm_orange=#e69875
+thm_orange=#ff9e3b
 thm_black4=color8
